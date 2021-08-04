@@ -1,8 +1,8 @@
 class Azb < Formula
     desc "azb command line tool"
     homepage "https://github.com/jcanizalez/azb-cli"
-    url "https://github.com/jcanizalez/azb-cli/releases/download/v2.2.0/azb-v2.2.0-darwin-amd64.tar.gz"
-    sha256 "40b1dfc60e95a8a28576dcd79380680563ce6d73bbadabc5fcb71dead9a5528c"
+    url "https://github.com/jcanizalez/azb-cli/releases/download/v2.2.4/azb-v2.2.4-darwin-amd64.tar.gz"
+    sha256 "6be1b155f04e32991cbcb84afd139b43696d3228cfa7dafddb96f6ddabab707c"
     license "Apache-2.0"
   
   
